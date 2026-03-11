@@ -1,0 +1,14 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/mypage",
+      "destination": "/mypage.html"
+    },
+    {
+      "source": "/agent-wallet",
+      "destination": "/agent-wallet.html"
+    }
+  ]
+}
